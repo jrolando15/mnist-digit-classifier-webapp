@@ -213,3 +213,4 @@ upload_form.html
 
 
 ## License
+This README template includes all the pertinent information about your project, such as installation instructions, usage, project structure, data processing, model training, model evaluation, and details about the web application. It also includes sections for contributing and licensing, which are important for open-source projects.
